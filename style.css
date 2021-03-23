@@ -73,4 +73,7 @@ body {
     body {
         background-color:white;
     }
+    nav {
+        overflow: hidden;
+    }
  }
