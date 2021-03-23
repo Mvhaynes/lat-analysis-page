@@ -41,3 +41,22 @@ body {
     display: block;
     margin-bottom:15px;
 }
+.comparison {
+    background-color: white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: inline-block;
+    padding:10px;
+ }
+ .comparison img {
+     max-width: 100%;
+     display: block;
+     margin-bottom:15px;
+ }
+ .comparison h2 {
+     font-size: 25px;
+    font-weight: bold;
+    padding-top:10px;
+    padding-left:10px;
+    text-align: center;
+ }
